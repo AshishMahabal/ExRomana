@@ -23,6 +23,8 @@ Plus many possibilities
 - Visualize misclassifications
 - Use other/more channels (only one is used by default)
 
+And correct minor issues in the python code.
+
 If you are doing clustering, use the 64x64 images, or inner 32x32 images.
 Use t-SNE, UMAP, PCA, KMEANS, whatever. Use the labels to color and check, but not to tweak.
 If you want to use it to tweak, use a small subset of labels. (Why?)
